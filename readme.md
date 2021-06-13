@@ -1,5 +1,6 @@
 ## APK is available here in this repository
-Download directly the apk.
+[Download the app here](https://github.com/ydhnwb/arv/blob/main/app-release.apk)
+
 
 
 ## Clone
