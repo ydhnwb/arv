@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "297833717421",
+    "project_id": "arvis-react-native",
+    "storage_bucket": "arvis-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297833717421:android:9afd9239194e071670b024",
+        "android_client_info": {
+          "package_name": "com.arvis_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297833717421-rva6278jomm743osojvh9raggvb2kok5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arvis_test",
+            "certificate_hash": "414dbfb77140217de566b0d690815a971df58c88"
+          }
+        },
+        {
+          "client_id": "297833717421-qv91o34vft4jc64ni6mdrms7jlfsnp3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcvcoHAp_q9YY6nD-7Dn2cEQ394YHlb-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297833717421-qv91o34vft4jc64ni6mdrms7jlfsnp3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
